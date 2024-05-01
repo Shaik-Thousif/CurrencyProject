@@ -1,4 +1,4 @@
- 
+//sake of reference for api but error 
 const url ="https://cat-fact.herokuapp.com/facts";
 
   const getFacts= async()=>{
